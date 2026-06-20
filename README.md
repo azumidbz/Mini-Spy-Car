@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Ivan Coronado
+- Ivan Coronado 
 - Angel Angulo
 - Gabriel Davila
 - Nicolas Castillo
