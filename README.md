@@ -151,7 +151,7 @@ Vista general del carro ensamblado sobre el banco de trabajo, con el chasis impr
 
 Integrante del equipo realizando pruebas de continuidad y verificación de conexiones con multímetro directamente sobre el carro ensamblado.
 
-![Pruebas eléctricas con multímetro](evidencias/avances/Soldando_Spy_Car.jpg)
+![Pruebas eléctricas con multímetro](docs/avances/Soldando_Spy_Car.jpg)
 
 ---
 
@@ -159,13 +159,13 @@ Integrante del equipo realizando pruebas de continuidad y verificación de conex
 
 Integrantes del equipo trabajando en la integración del sistema y revisión del código de control.
 
-![Equipo trabajando en el proyecto](evidencias/avances/IMG-20260619-WA0160.jpg)
+![Equipo trabajando en el proyecto](docs/avances/Trabajando_Spy_Car.jpg)
 
 ---
 
 ## Video de funcionamiento
 
-[Ver video de funcionamiento del Mini Spy Car](evidencias/pruebas/Mini_Spy_Car_Funcionamiento.mp4)
+[Ver video de funcionamiento del Mini Spy Car](docs/pruebas/Mini_Spy_Car_Funcionamiento.mp4)
 
 ---
 
@@ -226,8 +226,8 @@ Mini-Spy-Car/
 │
 ├── README.md
 ├── docs/
-│   ├── imagenes/
-│   └── videos/
+│   ├── avances/
+│   └── pruebas/
 │
 ├── codigo/
 │   └── programa_principal/
@@ -236,15 +236,8 @@ Mini-Spy-Car/
 │       └── camera_index.h
 │
 ├── esquemas/
-│   └── diagrama_conexion.png
-│
-└── evidencias/
-    ├── pruebas/
-    │   └── Mini_Spy_Car_Funcionamiento.mp4
-    └── avances/
-        ├── Spy_Car_Soldado.jpg
-        ├── Soldando_Spy_Car.jpg
-        └── IMG-20260619-WA0160.jpg
+    └── diagrama_conexion.png
+
 ```
 
 ---
