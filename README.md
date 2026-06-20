@@ -149,6 +149,22 @@ El código fuente se encuentra en la carpeta `codigo/programa_principal` y está
 
 ---
 
+## Evidencias del proyecto
+
+### Fotos de avances
+
+![Soldando el chasis](docs/imagenes/Soldando_Spy_Car.jpg)
+
+![Spy Car ensamblado](docs/imagenes/Spy_Car_Soldado.jpg)
+
+![Trabajando en el Spy Car](docs/imagenes/Trabajando_Spy_Car.jpg)
+
+### Video de funcionamiento
+
+[Ver video de prueba del prototipo](docs/videos/Mini_Spy_Car_Funcionamiento.mp4)
+
+---
+
 ## Estado actual del proyecto
 
 **En fase de ajuste final.**
@@ -188,12 +204,16 @@ Si bien la dirección de los motores requiere un ajuste final en el código, el 
 ## Estructura del repositorio
 
 ```
-README.md
 Mini-Spy-Car/
 │
+├── README.md
 ├── docs/
-│   ├── avances/
-│   └── pruebas/
+│   ├── imagenes/
+│   │   ├── Soldando_Spy_Car.jpg
+│   │   ├── Spy_Car_Soldado.jpg
+│   │   └── Trabajando_Spy_Car.jpg
+│   └── videos/
+│       └── Mini_Spy_Car_Funcionamiento.mp4
 │
 ├── codigo/
 │   └── programa_principal/
@@ -202,8 +222,11 @@ Mini-Spy-Car/
 │       └── camera_index.h
 │
 ├── esquemas/
-    └── diagrama_conexion.png
-
+│   └── diagrama_conexion.png
+│
+└── evidencias/
+    ├── avances/
+    └── pruebas/
 ```
 
 ---
