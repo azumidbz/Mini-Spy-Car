@@ -133,40 +133,6 @@ El código fuente se encuentra en la carpeta `codigo/programa_principal` y está
 | `app_httpd.cpp`          | Servidor web, rutas HTTP y lógica de control de motores      |
 | `camera_index.h`         | Interfaz web embebida (HTML/JS servida desde el ESP32)       |
 
-[Ver código fuente](codigo/programa_principal)
-
----
-
-## Evidencias del proceso
-
-### Ensamble del carro
-
-Vista general del carro ensamblado sobre el banco de trabajo, con el chasis impreso en 3D, los motores, el driver L298N y el módulo ESP32-S3 con cámara integrada.
-
-![Carro ensamblado en banco de trabajo](docs/avances/Spy_Car_Soldado.jpg)
-
----
-
-### Integración y pruebas eléctricas
-
-Integrante del equipo realizando pruebas de continuidad y verificación de conexiones con multímetro directamente sobre el carro ensamblado.
-
-![Pruebas eléctricas con multímetro](docs/avances/Soldando_Spy_Car.jpg)
-
----
-
-### Sesión de trabajo en equipo
-
-Integrantes del equipo trabajando en la integración del sistema y revisión del código de control.
-
-![Equipo trabajando en el proyecto](docs/avances/Trabajando_Spy_Car.jpg)
-
----
-
-## Video de funcionamiento
-
-[Ver video de funcionamiento del Mini Spy Car](docs/pruebas/Mini_Spy_Car_Funcionamiento.mp4)
-
 ---
 
 ## Pruebas realizadas
