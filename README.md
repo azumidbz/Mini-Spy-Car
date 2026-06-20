@@ -222,9 +222,9 @@ Si bien la dirección de los motores requiere un ajuste final en el código, el 
 ## Estructura del repositorio
 
 ```
+README.md
 Mini-Spy-Car/
 │
-├── README.md
 ├── docs/
 │   ├── avances/
 │   └── pruebas/
